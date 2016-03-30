@@ -12,3 +12,4 @@ This repsitory contains all the training exercises needed for pcf course.
 # 5. Microservices.
 # 6. Creating microservices with Spring Boot(Eureka).
 # 7. Logs in PCF.
+# 8. Test Application using PCF URL
